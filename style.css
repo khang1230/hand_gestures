@@ -1,0 +1,55 @@
+body
+{
+  color: white;
+  background: lightcoral;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #results
+{
+  border: 2px ridge black;
+  width: 350px;
+  height: 300px; 
+}
+#emotion1,#emotion2  
+{
+  color: black;
+}
+.emotionName{
+  font-size: 25px;
+}
+.emoji{
+  font-size:25px;
+}
+label{
+  color: darkorchid;
+  background-color: white;
+  border-radius: 20px;
+  padding: 7px;
+}
+h2{
+  letter-spacing: 15px;
+  width: 75%;
+  border-radius: 20px;
+}
+
+.header{
+    background-color: burlywood;
+}
+
+.middleDiv{
+    background-color: bisque;
+}
+
+h4{
+    color: black;
+    background-color: azure;
+    width: 33%;
+    border-radius: 15px;
+}
+
+#predicton{
+  display: inline-block;
+}
